@@ -1,0 +1,4 @@
+name = Rules Example
+description = "Coding examples of Rules module"
+package = Learning
+core = 7.x

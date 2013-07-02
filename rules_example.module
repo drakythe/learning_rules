@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * Necessary file for declaring the Rules examples module. see
+ * rules_example.rules.inc for the actual code.
+ */
